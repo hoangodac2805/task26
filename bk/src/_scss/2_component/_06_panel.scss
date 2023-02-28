@@ -1,0 +1,16 @@
+.c-panel {
+    margin-top: 119px;
+
+    .c-panel__cap,
+    .c-panel__title {
+        display: none;
+    }
+}
+
+.c-panel--top {
+    transform: translateX(4px);
+}
+
+.c-panel--bot {
+    transform: translateX(4px);
+}
